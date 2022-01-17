@@ -100,4 +100,4 @@ console.log
     parseFloat(prompt("Bitte Zahl 2 eingeben"))
    ) 
 );
->>>>>>> 4a3bc7a2bfaf156f4155a802e1276d1075509fc5
+
